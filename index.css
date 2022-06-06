@@ -45,3 +45,13 @@ input[type=button]:hover{
     width: 100%;
     text-transform: uppercase;
 }
+
+@media (max-width : 945px) {
+    .wrap{
+        width: 100%;
+    }
+    input[type=button]{
+        width: 24%;
+    }
+    
+}
